@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MouseClicker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MouseClicker_jar</output-path>
+    <root id="archive" name="MouseClicker.jar">
+      <element id="module-output" name="MouseClicker" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../apache-maven-3.9.4/mvn_repo/com/github/kwhat/jnativehook/2.2.2/jnativehook-2.2.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
